@@ -1,0 +1,37 @@
+
+
+body{
+
+  border-style: solid;
+  border: red 7px ridge;
+  border-color: hotpink skyblue purple lightseagreen;
+  padding: 20px;
+  margin: 50px 100px;
+  border-width: 3px;
+}
+header{
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  letter-spacing: 2px;
+}
+
+
+H1{
+  margin:0px;
+  text-transform: uppercase;
+}
+
+.purple {
+  color: purple;
+}
+
+#Summ{
+  background-color: lightblue;
+}
+
+#Extra{
+  background-color: lightyellow;
+}
+
+#Exper{
+  background-color: orange;
+}
